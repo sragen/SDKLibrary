@@ -29,7 +29,8 @@ An easy-to-use and lightweight SDK for integrating chat functionality into your 
 ## Initialization
 Import the SDK and initialize it in your app:
 
-import ChatSDK
-
-ChatSDK.initialize(apiKey: "YOUR_API_KEY")
+   ```plaintext
+    import ChatSDK
+    
+    ChatSDK.initialize(apiKey: "YOUR_API_KEY")
 

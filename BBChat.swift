@@ -7,7 +7,6 @@
 
 import Foundation
 
-
 public class BBChat {
     
     public func showLog() {
